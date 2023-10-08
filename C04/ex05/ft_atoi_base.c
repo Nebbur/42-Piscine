@@ -28,7 +28,7 @@ int	checkerrors(char *base)
 	int	len;
 	int	j;
 	
-	printf("\nteste checkerros\n");
+	//printf("\nteste checkerros\n");
 	j = 0;
 	len = str_len(base);
 	i = 0;
